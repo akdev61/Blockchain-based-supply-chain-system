@@ -1,6 +1,6 @@
-# Decentralized Inventory Management System using Blockchain
+# Blockchaon Based Supply Chain Traceability Platform
 
-A secure, role-based decentralized inventory and supply chain management system built on the Ethereum blockchain. This project utilizes Solidity smart contracts for immutability and tracking, paired with a modern Next.js frontend featuring custom JWT-based authentication and role-based access control.
+A secure, role-based decentralized supply chain management system built on the Ethereum blockchain. This project utilizes Solidity smart contracts for immutability and tracking, paired with a modern Next.js frontend featuring custom JWT-based authentication and role-based access control.
 
 ## 🌟 Key Features
 
